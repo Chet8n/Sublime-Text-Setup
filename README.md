@@ -29,6 +29,10 @@ If you don't want this or want to use C++14, replace this with the -std=c++14 fl
 Create three new files, file.cpp, inputf.in, and outputf.in. Select View > Layout > Columns : 3. 
 This will create three columns in the workspace. Move the three files into the three columns. Select View > Groups > Max Columns : 2.
 
+
+![alt text](https://github.com/Chet8n/Sublime-Text-Setup/blob/master/Screenshot%20(211).png)
+
+
 The windows will look like above when you are done. Write a hello world program, and test its working. Use Ctrl+B to build and execute the file.
 
 ## 5. Precompile headers
