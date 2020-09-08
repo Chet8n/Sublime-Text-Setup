@@ -47,7 +47,7 @@ Finally, we can take advantage of the features of Sublime Text, namely snippets 
 
 # Apart from these my personal settings:
 
-1. Install font Inconsolata from google fonts and go to ``` preferences -> settings ``` and add these:
+## 1. Install font Inconsolata from google fonts and go to ``` preferences -> settings ``` and add these:
 
  ```
  {
@@ -66,4 +66,11 @@ Finally, we can take advantage of the features of Sublime Text, namely snippets 
 }
 ```
 
-2. Make snippets for CP
+## 2. Make snippets for CP
+## 3. customize colors of variables, data types, comments etc
+How to do it??
+goto ``` tools -> command palette -> Open Resource -> Color Scheme - Default -> ``` then select your current theme in my case ```Monokai.sublime-color-scheme``` then the following file will open:
+
+[!alt text](https://github.com/Chet8n/Sublime-Text-Setup/blob/master/Screenshot%20(212).png)
+
+now you can add or modify colors and you can find color codes [here](https://www.w3schools.com/colors/colors_rgb.asp)
