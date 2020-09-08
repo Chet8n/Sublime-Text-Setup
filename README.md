@@ -44,3 +44,26 @@ Right click while pressing Shift to open a Powershell/cmd window there. Run the 
 to compile the header. Take care to use the same flags you used in your build system. Check to make sure that the stdc++.h.gch file was created in the directory.
 
 Finally, we can take advantage of the features of Sublime Text, namely snippets and completions.
+
+# Apart from these my personal settings:
+
+1. Install font Inconsolata from google fonts and go to ``` preferences -> settings ``` and add these:
+
+ ```
+ {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}
+```
+
+2. Make snippets for CP
