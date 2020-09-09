@@ -45,9 +45,9 @@ to compile the header. Take care to use the same flags you used in your build sy
 
 Finally, we can take advantage of the features of Sublime Text, namely snippets and completions.
 
-# Apart from these my personal settings:
+# Apart from these, some of my personal settings are:
 
-## 1. Install font Inconsolata from google fonts and go to ``` preferences -> settings ``` and add these:
+## 1. Install font Inconsolata(why? coz I like the font) from google fonts and go to ``` preferences -> settings ``` and add these:
 
  ```
  {
