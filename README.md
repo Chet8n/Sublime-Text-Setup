@@ -39,7 +39,7 @@ The windows will look like above when you are done. Write a hello world program,
 Now we can speed up compilation time by precompiling all the header files as mentioned [here](https://codeforces.com/blog/entry/53909), i.e. 
 by precompiling the bits/stdc++.h header file. This can speed up compilation time by up to a factor of 12.
 For this, first, navigate to the stdc++.h file. This will be located at a directory similar 
-to C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits. 
+to C:\msys64\mingw64\include\c++\10.2.0\x86_64-w64-mingw32\bits 
 Right click while pressing Shift to open a Powershell/cmd window there. Run the command g++ -std=c++17 stdc++.h, 
 to compile the header. Take care to use the same flags you used in your build system. Check to make sure that the stdc++.h.gch file was created in the directory.
 
